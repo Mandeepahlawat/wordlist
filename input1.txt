@@ -1,0 +1,6 @@
+But if you must pass an object by value, 
+a copy constructor, 
+a copy assignment operator, 
+and a destructor. C++ literature over and over and over again!
+
+To optimize performance, C++11 introduced
